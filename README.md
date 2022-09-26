@@ -1,19 +1,5 @@
-# reaction-time
+## 💥Improve your reaction time🚀 | VueJS
 
-## Project setup
-```
-npm install
-```
+Try this game to improve your reaction time !
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+An application to learn the basics of VueJS.
